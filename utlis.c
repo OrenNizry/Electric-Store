@@ -1,5 +1,3 @@
-//* Oren Nizry - ID:208708784 *//
-//* Roi Dolev - ID:207252479 *//
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <time.h>
@@ -41,3 +39,4 @@ int dateDifferenceInDays(char* date1, char* date2) {
     int total2 = y2 * 365 + m2 * 30 + d2;
     return (total2 - total1);
 }
+
