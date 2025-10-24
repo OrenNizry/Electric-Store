@@ -1,5 +1,3 @@
-//* Oren Nizry - ID:208708784 *//
-//* Roi Dolev - ID:207252479 *//
 #pragma once
 
 #include <stdbool.h>
@@ -33,3 +31,4 @@ void searchItems();       // Searches for items based on various criteria.
 // Helper functions:
 ItemNode* findItemNodeByPN(char* PN);  // Finds an item node by product number.
 void insertItemSorted(Item newItem);   // Inserts a new item into the linked list in sorted order.
+
