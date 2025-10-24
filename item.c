@@ -1,5 +1,3 @@
-//* Oren Nizry - ID:208708784 *//
-//* Roi Dolev - ID:207252479 *//
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdlib.h>
@@ -367,3 +365,4 @@ void searchItems() {
         printf("No matching items found.\n");
     }
 }
+
