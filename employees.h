@@ -1,5 +1,3 @@
-//* Oren Nizry - ID:208708784 *//
-//* Roi Dolev - ID:207252479 *//
 #pragma once 
 
 // Employee structure definition.
@@ -15,3 +13,4 @@ int checkIfEmployeeFileExists();
 void createDefaultAdmin();
 Employee login();
 void addEmployee();
+
