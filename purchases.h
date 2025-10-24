@@ -1,5 +1,3 @@
-//* Oren Nizry - ID:208708784 *//
-//* Roi Dolev - ID:207252479 *//
 #pragma once 
 
 // Purchase structure definition.
@@ -23,3 +21,4 @@ void savePurchases();
 void recordPurchase(char* customerName, char* productPN, int quantity, float price);
 void listPurchasesByCustomer(char* customerName);
 int returnProduct(char* customerName, char* productPN);
+
