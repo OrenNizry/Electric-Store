@@ -1,5 +1,3 @@
-//* Oren Nizry - ID:208708784 *//
-//* Roi Dolev - ID:207252479 *//
 #pragma once 
 
 // Customer structure definition.
@@ -21,3 +19,4 @@ void saveCustomers();
 void addCustomer();
 void listCustomers();
 int findCustomerIndexByName(char* name);
+
